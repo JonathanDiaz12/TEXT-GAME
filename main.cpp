@@ -221,7 +221,7 @@ int main() {
                             cout << "Score: " << score << endl;
                             exit(0);
                         }
-                        cout << "The giant snake did " << Giant_Snake_Damage_On_Player << ". Your health is " << health << "." << endl;
+                        cout << "The giant snake did " << Giant_Snake_Damage_On_Player << " damage. Your health is " << health << "." << endl;
                     }
                 }else if (Shield =="N0")
                 {
